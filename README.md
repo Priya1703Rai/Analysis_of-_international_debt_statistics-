@@ -9,3 +9,6 @@ By writing SQL queries, I explored and answered questions such as:
 
 3.What is the average debt across different categories?
 
+The data used in this project is provided by The World Bank (https://www.worldbank.org/en/home) 
+It contains both national and regional debt statistics for several countries across the globe.
+
